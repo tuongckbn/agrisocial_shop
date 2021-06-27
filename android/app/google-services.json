@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458844871135",
+    "project_id": "agrisocial-ba330",
+    "storage_bucket": "agrisocial-ba330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458844871135:android:6005998fb27bf6ec5d8c6a",
+        "android_client_info": {
+          "package_name": "com.tuongcntt24.agriSocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458844871135-2g075onerm8ter312t5pdtlrs43djoj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuongcntt24.agriSocial",
+            "certificate_hash": "c8aa6908b1345a0bae4d6f63978712aaf7c4fb6f"
+          }
+        },
+        {
+          "client_id": "458844871135-i6cv270rhncu2cm9pbkumnqf2mji8a1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwrsva4hbbzcsqMS2bfde80iWdXs6qLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458844871135-i6cv270rhncu2cm9pbkumnqf2mji8a1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
